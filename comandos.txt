@@ -1,0 +1,30 @@
+## COMANDOS CMD
+cd - change directory
+cd/
+cd ..
+dir - directory
+mkdir - make directory
+del - delete
+rmdir - remove directory
+rmdir /S /Q
+echo hello > hello.txt
+echo > nomedoarquivo.md - cria um arquivo
+cls - clean screen
+
+
+##COMANDOS GIT
+git init - iniciar versionamento do git no repositorio
+git add - adicionar os arquivos para serem comitados
+git add * - adiciona todos os arquivos modificados
+git commit - salvar os arquivos no repositorio
+git commit -m "uma mensagem"
+git status - mostra o status do diretorio
+mv strogonoff.md ./receitas - mover arquivos para outro local
+git config --list
+git config --global --unset user.email
+git config --global user.email "allan_silva20@hotmail.com"
+git remote add origin https://
+git remote -v
+git push origin master
+git pull origin master
+git clone https...
